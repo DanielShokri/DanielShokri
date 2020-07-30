@@ -5,7 +5,7 @@
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
   <br>
-  <a href="danielshokri.me" > <img src="https://i.ibb.co/KxKqHNZ/Pngtree-bule-border-3551748-1.png" alt="my"> </a>
+  <a href="https://www.danielshokri.me" > <img src="https://i.ibb.co/KxKqHNZ/Pngtree-bule-border-3551748-1.png" alt="my"> </a>
  </abc>
 <p align="center">
 
